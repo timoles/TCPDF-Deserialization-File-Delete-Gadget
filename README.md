@@ -1,3 +1,5 @@
+MERGED INTO PHPGGC https://github.com/ambionics/phpggc/pull/80
+
 # TCPDF-<= 6.3.5-Deser-Exploit
 This Repository  includes a PoC for creating a TCPDF <= 6.3.5 deser gadget to delete arbitrary files
 
